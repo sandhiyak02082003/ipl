@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    justify-content: space-around;
+}
+body{
+    background-color: black;
+   
+}
+.team{
+    height:200px;
+    width:40%;
+    padding:20px;
+    margin-right: 20px;
+    float: left;
+    background-color: yellow;
+}
+button{
+    width: 500px;
+    font-size: 32px;
+    padding: 100px;
+    margin-top: 50px;
+    background-color: rgb(240, 9, 144);
+    color: black;
+    cursor: pointer;
+    
+}
+.winner{
+    background-color: green;
+    color: black;
+}
